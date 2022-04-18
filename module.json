@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "author": "GreatPurpleUsername",
     "minimumCoreVersion": "0.7.5",
-    "compatibleCoreVersion": "Current",
+    "compatibleCoreVersion": "0.9",
     "packs": [
         {
             "name": "official-creatures",
@@ -20,6 +20,6 @@
             "entity": "Item"
         }
     ],
-    "manifest": "https://github.com/GreatPurpleUsername/shared-compendium/blob/master/module.json",
-    "download": "https://github.com/GreatPurpleUsername/shared-compendium/blob/master/shared-compendium.zip"
+    "manifest": "https://github.com/GreatPurpleUsername/shared-compendium/-/blob/master/module.json",
+    "download": "https://github.com/GreatPurpleUsername/shared-compendium/-/blob/master/shared-compendium.zip"
   }
