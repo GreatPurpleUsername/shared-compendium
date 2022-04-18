@@ -20,6 +20,7 @@
             "entity": "Item"
         }
     ],
-    "manifest": "https://github.com/GreatPurpleUsername/shared-compendium/-/blob/master/module.json",
-    "download": "https://github.com/GreatPurpleUsername/shared-compendium/blob/master/shared-compendium.zip"
+    "manifest": "https://raw.githubusercontent.com/GreatPurpleUsername/shared-compendium/master/module.json",
+    "download": "https://raw.githubusercontent.com/GreatPurpleUsername/shared-compendium/master/shared-compendium.zip"
   }
+
