@@ -23,7 +23,7 @@
             "name": "official-spells",
             "label": "Published Spells",
             "path": "./packs/official-spells.db",
-            "entity": "Actor"
+            "entity": "Item"
         },
         {
             "name": "official-rolltables",
@@ -42,6 +42,12 @@
             "name": "homebrew-items",
             "label": "Homebrew Items",
             "path": "./packs/hb-items.db",
+            "entity": "Item"
+        },
+        {
+            "name": "homebrew-spells",
+            "label": "Published Spells",
+            "path": "./packs/hb-spells.db",
             "entity": "Item"
         },
         {
