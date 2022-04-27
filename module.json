@@ -1,7 +1,7 @@
 {
     "name": "my-shared-content",
     "title": "Shared Content: GreatPurpleUsername",
-    "description": "A collection of my content.",
+    "description": "A collection homebrew content and content missing from the SRD.",
     "version": "1.0.0",
     "author": "GreatPurpleUsername",
     "minimumCoreVersion": "0.7.5",
@@ -9,15 +9,70 @@
     "packs": [
         {
             "name": "official-creatures",
-            "label": "Shared Creatures",
+            "label": "Published Creatures",
             "path": "./packs/creatures.db",
             "entity": "Actor"
         },
         {
             "name": "official-items",
-            "label": "Shared Items",
+            "label": "Published Items",
             "path": "./packs/items.db",
             "entity": "Item"
+        },
+        {
+            "name": "official-spells",
+            "label": "Published Spells",
+            "path": "./packs/creatures.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "official-rolltables",
+            "label": "Published Items",
+            "path": "./packs/items.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "homwbrew-creatures",
+            "label": "Homebrew Creatures",
+            "path": "./packs/hb-creatures.db",
+            "entity": "Actor"
+        },
+        
+        {
+            "name": "homebrew-items",
+            "label": "Homebrew Items",
+            "path": "./packs/hb-items.db",
+            "entity": "Item"
+        },
+        {
+            "name": "homwbrew-scenes",
+            "label": "Homebrew Scenes",
+            "path": "./packs/hb-scenes.db",
+            "entity": "Scene"
+        },
+        {
+            "name": "homwbrew-journal-entries",
+            "label": "Homebrew Journal Entries",
+            "path": "./packs/hb-journal-entries.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "homwbrew-macros",
+            "label": "Homebrew Macros",
+            "path": "./packs/hb-macros.db",
+            "entity": "Macro"
+        },
+        {
+            "name": "homwbrew-roll-tables",
+            "label": "Homebrew Roll Tables",
+            "path": "./packs/hb-roll-tables.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "homwbrew-playlists",
+            "label": "Homebrew Playlists",
+            "path": "./packs/hb-playlists.db",
+            "entity": "Playlist"
         }
     ],
     "manifest": "https://raw.githubusercontent.com/GreatPurpleUsername/shared-compendium/master/module.json",
