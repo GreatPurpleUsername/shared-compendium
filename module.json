@@ -10,25 +10,25 @@
         {
             "name": "official-creatures",
             "label": "Published Creatures",
-            "path": "./packs/creatures.db",
+            "path": "./packs/official-creatures.db",
             "entity": "Actor"
         },
         {
             "name": "official-items",
             "label": "Published Items",
-            "path": "./packs/items.db",
+            "path": "./packs/official-items.db",
             "entity": "Item"
         },
         {
             "name": "official-spells",
             "label": "Published Spells",
-            "path": "./packs/creatures.db",
+            "path": "./packs/official-spells.db",
             "entity": "Actor"
         },
         {
             "name": "official-rolltables",
             "label": "Published Items",
-            "path": "./packs/items.db",
+            "path": "./packs/official-items.db",
             "entity": "RollTable"
         },
         {
